@@ -9,3 +9,18 @@ next-env.d.ts
 .cursor/
 deadpool/
 tsconfig.tsbuildinfo
+
+# Local reference art that the site does not load
+public/images/baby-deadpool.png
+public/images/baby-deadpool-cut.png
+public/images/deadpool-*.jpg
+public/images/dp-crossed.jpg
+public/images/dp-lunch.jpg
+public/images/dp-pose.jpg
+public/images/gal-billboard.jpg
+public/images/gal-leap.jpg
+public/images/gal-rain.jpg
+public/images/gal-ride.jpg
+public/images/gallery-blades.jpg
+public/images/intro-merc.jpg
+public/images/intro-solo.jpg
